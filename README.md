@@ -127,4 +127,4 @@ GET /countries/image
 ## 📄 License
 
 MIT License © 2025  
-Developed by [Your Name]
+Developed by Benjamin Eromosele Odion-Owase
