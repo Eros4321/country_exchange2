@@ -1,1 +1,0 @@
-web: gunicorn country_exchange2.wsgi
